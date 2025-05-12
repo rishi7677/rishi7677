@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Rishi Ranjan final year student at HIT, pursuing my bachelors in Information Technology💻.
-- 👀 I’m interested in Python,Java,Spring Boot.
+- 👋 Hi, I’m Rishi Ranjan, Senior Software Engineer at IntraEdge Technologies Pvt Ltd 💻.
+- Total industry work experince of 4 years
+- 👀 I’m interested in Python, Java, Vert.x, Spring Boot.
 - 👩‍💻Code: C++,Python,HTML,CSS,TypeScript,Java,and MySQL.
-- 🐱‍👤Frameworks:Angular,Spring.
+- 🐱‍👤Frameworks:Angular,Spring Boot.
 - 📫 Reach me at rishiranjan7677@gmail.com
 
 <!---
